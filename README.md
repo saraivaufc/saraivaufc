@@ -26,11 +26,6 @@ Welcome to my GitHub profile! I'm a Software Developer with a strong focus on Py
 - LinkedIn: [www.linkedin.com/in/saraivaufc](www.linkedin.com/in/saraivaufc)
 - Portfolio: [www.saraiva.dev](http://www.saraiva.dev)
 
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:**
-- Beyond my passion for technology and data, I enjoy exploring the natural world, which drives my interest in using technology to protect it. Whether it's a hike in the mountains or analyzing satellite images, I'm always amazed by the Earth's beauty and complexity.
-
 Thank you for visiting my profile. Let's connect and make a positive impact together!
 
 
