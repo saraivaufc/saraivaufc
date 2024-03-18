@@ -1,6 +1,7 @@
 ### Hi there, I'm Marciano Saraiva 👋
 
-Welcome to my GitHub profile! I'm a Software Developer with a strong focus on Python, Django, and data analysis, especially in the realm of geospatial data and remote sensing technologies. With over 7 years of experience, I've been transforming complex challenges into innovative solutions in the agricultural sector and beyond.
+I'm a Senior Software Developer with a strong focus on Python, Django, and data analysis, especially in the realm of geospatial data and remote sensing technologies. 
+With over 7 years of experience, I've been transforming complex challenges into innovative solutions in the agricultural sector and beyond.
 
 🔭 **I’m currently working on:**
 - Leading the development of remote sensing products at Brain Agriculture, using advanced AI models for agriculture mapping and satellite image processing.
